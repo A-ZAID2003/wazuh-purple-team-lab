@@ -1,0 +1,1 @@
+# wazuh-purple-team-lab
